@@ -9,3 +9,5 @@ Current RPM is obtained using the Speed_Feedback() function.
 PID logic adjusts the speed command to maintain the target RPM.
 Current RPM, target RPM, and speed command values are printed to the Serial Monitor for debugging.
 
+FOR MORE DETAILED EXPLANATION OF PINOUTS AND OTHER HELP IVE UPLOADED RMC2303 DATASHEET
+
